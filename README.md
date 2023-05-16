@@ -6,4 +6,12 @@ Tinggal tambahin aja dotenv dengan install terlebih dahulu module dotenv di pyth
 "pip install python-dotenv"
 Kemudian masukkan koneksi database mongodb atlas anda di dotenv tersebut
 
-Di sini sudah ada .exe nya yang siap digunakan, kalian cukup download saja. Tatapi yang di .exe ini logging nya dihapus sebab saya ingin menghapusnya
+module yang digunakan:
+- custometkinter (pip install customtkinter)
+- pymongo (pip install pymongo)
+- cryptography (pip install cryptography)
+- logging (pip install logging)
+- bcrypt (pip install bcrypt)
+- pil (pip install pillow)
+
+Module tersebut perlu diinstal jika belum pernah menginstal nya
